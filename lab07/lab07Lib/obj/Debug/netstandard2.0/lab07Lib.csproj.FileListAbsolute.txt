@@ -1,0 +1,9 @@
+C:\Users\dybow\source\repos\lab07\lab07Lib\bin\Debug\netstandard2.0\lab07Lib.deps.json
+C:\Users\dybow\source\repos\lab07\lab07Lib\bin\Debug\netstandard2.0\lab07Lib.dll
+C:\Users\dybow\source\repos\lab07\lab07Lib\bin\Debug\netstandard2.0\lab07Lib.pdb
+C:\Users\dybow\source\repos\lab07\lab07Lib\obj\Debug\netstandard2.0\lab07Lib.csprojAssemblyReference.cache
+C:\Users\dybow\source\repos\lab07\lab07Lib\obj\Debug\netstandard2.0\lab07Lib.csproj.CoreCompileInputs.cache
+C:\Users\dybow\source\repos\lab07\lab07Lib\obj\Debug\netstandard2.0\lab07Lib.AssemblyInfoInputs.cache
+C:\Users\dybow\source\repos\lab07\lab07Lib\obj\Debug\netstandard2.0\lab07Lib.AssemblyInfo.cs
+C:\Users\dybow\source\repos\lab07\lab07Lib\obj\Debug\netstandard2.0\lab07Lib.dll
+C:\Users\dybow\source\repos\lab07\lab07Lib\obj\Debug\netstandard2.0\lab07Lib.pdb

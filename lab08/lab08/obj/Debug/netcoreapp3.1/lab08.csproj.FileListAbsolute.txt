@@ -1,0 +1,16 @@
+C:\Users\dybow\source\repos\lab08\lab08\bin\Debug\netcoreapp3.1\lab08.exe
+C:\Users\dybow\source\repos\lab08\lab08\bin\Debug\netcoreapp3.1\lab08.deps.json
+C:\Users\dybow\source\repos\lab08\lab08\bin\Debug\netcoreapp3.1\lab08.runtimeconfig.json
+C:\Users\dybow\source\repos\lab08\lab08\bin\Debug\netcoreapp3.1\lab08.runtimeconfig.dev.json
+C:\Users\dybow\source\repos\lab08\lab08\bin\Debug\netcoreapp3.1\lab08.dll
+C:\Users\dybow\source\repos\lab08\lab08\bin\Debug\netcoreapp3.1\lab08.pdb
+C:\Users\dybow\source\repos\lab08\lab08\bin\Debug\netcoreapp3.1\lab08lib.dll
+C:\Users\dybow\source\repos\lab08\lab08\bin\Debug\netcoreapp3.1\lab08lib.pdb
+C:\Users\dybow\source\repos\lab08\lab08\obj\Debug\netcoreapp3.1\lab08.csprojAssemblyReference.cache
+C:\Users\dybow\source\repos\lab08\lab08\obj\Debug\netcoreapp3.1\lab08.csproj.CoreCompileInputs.cache
+C:\Users\dybow\source\repos\lab08\lab08\obj\Debug\netcoreapp3.1\lab08.AssemblyInfoInputs.cache
+C:\Users\dybow\source\repos\lab08\lab08\obj\Debug\netcoreapp3.1\lab08.AssemblyInfo.cs
+C:\Users\dybow\source\repos\lab08\lab08\obj\Debug\netcoreapp3.1\lab08.csproj.CopyComplete
+C:\Users\dybow\source\repos\lab08\lab08\obj\Debug\netcoreapp3.1\lab08.dll
+C:\Users\dybow\source\repos\lab08\lab08\obj\Debug\netcoreapp3.1\lab08.pdb
+C:\Users\dybow\source\repos\lab08\lab08\obj\Debug\netcoreapp3.1\lab08.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\dybow\source\repos\lab06\lab06\obj\Debug\lab06.csprojAssemblyReference.cache
+C:\Users\dybow\source\repos\lab06\lab06\obj\Debug\lab06.Form1.resources
+C:\Users\dybow\source\repos\lab06\lab06\obj\Debug\lab06.Properties.Resources.resources
+C:\Users\dybow\source\repos\lab06\lab06\obj\Debug\lab06.csproj.GenerateResource.cache
+C:\Users\dybow\source\repos\lab06\lab06\obj\Debug\lab06.csproj.CoreCompileInputs.cache
+C:\Users\dybow\source\repos\lab06\lab06\bin\Debug\lab06.exe.config
+C:\Users\dybow\source\repos\lab06\lab06\bin\Debug\lab06.exe
+C:\Users\dybow\source\repos\lab06\lab06\bin\Debug\lab06.pdb
+C:\Users\dybow\source\repos\lab06\lab06\obj\Debug\lab06.exe
+C:\Users\dybow\source\repos\lab06\lab06\obj\Debug\lab06.pdb

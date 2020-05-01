@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab06", "lab06\lab06.csproj", "{755FDEEC-0D09-4D9E-84DD-10DE9C61B785}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab06lib", "lab06lib\lab06lib.csproj", "{D0778BA1-B48C-4FE5-9E67-A82EE7EBF119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab6Con", "lab6Con\lab6Con.csproj", "{433703F0-D3D0-47FC-B259-CBBA354DB3FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{755FDEEC-0D09-4D9E-84DD-10DE9C61B785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{755FDEEC-0D09-4D9E-84DD-10DE9C61B785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{755FDEEC-0D09-4D9E-84DD-10DE9C61B785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{755FDEEC-0D09-4D9E-84DD-10DE9C61B785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0778BA1-B48C-4FE5-9E67-A82EE7EBF119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0778BA1-B48C-4FE5-9E67-A82EE7EBF119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0778BA1-B48C-4FE5-9E67-A82EE7EBF119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0778BA1-B48C-4FE5-9E67-A82EE7EBF119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433703F0-D3D0-47FC-B259-CBBA354DB3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433703F0-D3D0-47FC-B259-CBBA354DB3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433703F0-D3D0-47FC-B259-CBBA354DB3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433703F0-D3D0-47FC-B259-CBBA354DB3FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5009D514-5AED-413E-A6E6-C69FACA89A02}
+	EndGlobalSection
+EndGlobal

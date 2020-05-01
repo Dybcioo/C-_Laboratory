@@ -1,0 +1,13 @@
+C:\Users\dybow\source\repos\lab03\lab03\bin\Debug\netcoreapp3.1\lab03.exe
+C:\Users\dybow\source\repos\lab03\lab03\bin\Debug\netcoreapp3.1\lab03.deps.json
+C:\Users\dybow\source\repos\lab03\lab03\bin\Debug\netcoreapp3.1\lab03.runtimeconfig.json
+C:\Users\dybow\source\repos\lab03\lab03\bin\Debug\netcoreapp3.1\lab03.runtimeconfig.dev.json
+C:\Users\dybow\source\repos\lab03\lab03\bin\Debug\netcoreapp3.1\lab03.dll
+C:\Users\dybow\source\repos\lab03\lab03\bin\Debug\netcoreapp3.1\lab03.pdb
+C:\Users\dybow\source\repos\lab03\lab03\obj\Debug\netcoreapp3.1\lab03.csprojAssemblyReference.cache
+C:\Users\dybow\source\repos\lab03\lab03\obj\Debug\netcoreapp3.1\lab03.csproj.CoreCompileInputs.cache
+C:\Users\dybow\source\repos\lab03\lab03\obj\Debug\netcoreapp3.1\lab03.AssemblyInfoInputs.cache
+C:\Users\dybow\source\repos\lab03\lab03\obj\Debug\netcoreapp3.1\lab03.AssemblyInfo.cs
+C:\Users\dybow\source\repos\lab03\lab03\obj\Debug\netcoreapp3.1\lab03.dll
+C:\Users\dybow\source\repos\lab03\lab03\obj\Debug\netcoreapp3.1\lab03.pdb
+C:\Users\dybow\source\repos\lab03\lab03\obj\Debug\netcoreapp3.1\lab03.genruntimeconfig.cache

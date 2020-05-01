@@ -1,0 +1,16 @@
+C:\Users\dybow\source\repos\lab06\lab6Con\bin\Debug\netcoreapp3.1\lab6Con.exe
+C:\Users\dybow\source\repos\lab06\lab6Con\bin\Debug\netcoreapp3.1\lab6Con.deps.json
+C:\Users\dybow\source\repos\lab06\lab6Con\bin\Debug\netcoreapp3.1\lab6Con.runtimeconfig.json
+C:\Users\dybow\source\repos\lab06\lab6Con\bin\Debug\netcoreapp3.1\lab6Con.runtimeconfig.dev.json
+C:\Users\dybow\source\repos\lab06\lab6Con\bin\Debug\netcoreapp3.1\lab6Con.dll
+C:\Users\dybow\source\repos\lab06\lab6Con\bin\Debug\netcoreapp3.1\lab6Con.pdb
+C:\Users\dybow\source\repos\lab06\lab6Con\bin\Debug\netcoreapp3.1\lab06lib.dll
+C:\Users\dybow\source\repos\lab06\lab6Con\bin\Debug\netcoreapp3.1\lab06lib.pdb
+C:\Users\dybow\source\repos\lab06\lab6Con\obj\Debug\netcoreapp3.1\lab6Con.csprojAssemblyReference.cache
+C:\Users\dybow\source\repos\lab06\lab6Con\obj\Debug\netcoreapp3.1\lab6Con.csproj.CoreCompileInputs.cache
+C:\Users\dybow\source\repos\lab06\lab6Con\obj\Debug\netcoreapp3.1\lab6Con.AssemblyInfoInputs.cache
+C:\Users\dybow\source\repos\lab06\lab6Con\obj\Debug\netcoreapp3.1\lab6Con.AssemblyInfo.cs
+C:\Users\dybow\source\repos\lab06\lab6Con\obj\Debug\netcoreapp3.1\lab6Con.csproj.CopyComplete
+C:\Users\dybow\source\repos\lab06\lab6Con\obj\Debug\netcoreapp3.1\lab6Con.dll
+C:\Users\dybow\source\repos\lab06\lab6Con\obj\Debug\netcoreapp3.1\lab6Con.pdb
+C:\Users\dybow\source\repos\lab06\lab6Con\obj\Debug\netcoreapp3.1\lab6Con.genruntimeconfig.cache
